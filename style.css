@@ -1,0 +1,67 @@
+body{
+  background :hsl(70,55%,55%);
+  width:98%;
+}
+header{
+  border-radius:15px;
+  
+  margin:0;
+  width: 100%;
+  background: #ffe5e0;
+  height: 120px;
+  
+}
+#tagline{
+  margin-top: 10px;
+  font-weight: bold;
+  margin-left:200px;
+  margin-top: 0;
+  padding:0;
+  color: #020002;
+  margin-bottom: 30px;
+  text-align:center;
+  font-size:24px;
+  font-family: Abel;
+}
+#title{
+  margin-bottom: 0px;
+  text-align:center;
+  color: #000022;
+  font-size: 60px;
+  font-family: Fjalla One;
+}
+#image{
+  width:90%;
+  margin-top:30px;
+  border: 10px solid white;
+  height: auto;
+ border-radius: 23px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+#div-img{
+  text-align: center;
+}
+figcaption{
+  position:relative;
+  text-align: right;
+  font-size:24px;
+  font-family: Abel;
+  margin-right:180px;
+}
+#tribute-info{
+  border-radius:23px;
+  margin-left: 6%;
+  margin-right: 6%; 
+  margin-top: 30px;
+  font-size: 21px;
+  text-align:justify;
+  padding-left: 4%;
+  padding-right: 4%;
+  padding-top:2%;
+  padding-bottom:2%;
+  background: #ffe5e0;
+  
+  font-family:Questrial;
+}
